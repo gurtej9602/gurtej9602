@@ -1,13 +1,14 @@
 <div align="center">
 
-# Gurtej Singh
+<img src="assets/profile-header.svg" width="100%" alt="Gurtej Singh — Software Developer and AI Builder" />
 
-**Software Developer · AI/ML Enthusiast · Problem Solver**
+### Software Developer · AI Builder · Open-source Explorer
 
-I build practical software, explore AI-powered tools, and enjoy turning ideas into useful products.
+I enjoy building useful software, experimenting with AI, and exploring how systems work — from developer tools to operating systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-gurtej9602-181717?style=flat&logo=github&logoColor=white)](https://github.com/gurtej9602)
-[![Profile Views](https://komarev.com/ghpvc/?username=gurtej9602&style=flat&color=6B7280)](https://github.com/gurtej9602)
+[![GitHub](https://img.shields.io/badge/GitHub-gurtej9602-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/gurtej9602)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurtej-singh-1a19ba323/)
+[![Profile views](https://komarev.com/ghpvc/?username=gurtej9602&style=flat-square&color=64748b&label=PROFILE+VIEWS)](https://github.com/gurtej9602)
 
 </div>
 
@@ -15,59 +16,119 @@ I build practical software, explore AI-powered tools, and enjoy turning ideas in
 
 ## About
 
-- 🎓 Computing student focused on software development and emerging technologies.
-- 💻 Interested in building reliable applications, developer tools, and AI-powered solutions.
-- 🧠 Currently strengthening my skills in data structures, programming, and practical AI.
-- 🤝 Open to learning, collaboration, and software development opportunities.
+- Building projects across **software development, AI tooling, and Linux**.
+- Interested in practical applications of **AI, automation, and developer experience**.
+- Exploring both application development and lower-level system concepts.
+- Always learning by building, testing, and improving real projects.
 
-## Featured Projects
+## Selected work
 
-| Project | Description |
-| --- | --- |
-| [CobraOS](https://github.com/gurtej9602/CobraOS) | A lightweight, Debian-based Linux distribution with an XFCE desktop and a practical set of pre-installed applications. |
-| [AI Study Assistant](https://github.com/gurtej9602/AI-Study-Assistant) | An AI-assisted learning project designed to explain topics, generate practice questions, evaluate answers, and help identify learning gaps. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Add or replace projects above as their repositories become public and their READMEs are ready.
+### [Financial Forensics Engine](https://github.com/gurtej9602/Financial-Forensics-Engine)
 
-## Skills & Tools
+A graph-based financial intelligence platform for exploring suspicious transaction patterns and potential money-muling networks.
 
-**Languages**  
-`C` · `C++` · `Java` · `Python` · `JavaScript` · `SQL`
+`Python` `FastAPI` `React` `NetworkX` `MongoDB`
 
-**Development**  
-`HTML` · `CSS` · `Git` · `GitHub` · `Linux` · `REST APIs`
+</td>
+<td width="50%" valign="top">
 
-**Areas of Interest**  
-`Software Engineering` · `Artificial Intelligence` · `Developer Tools` · `Operating Systems`
+### [Ollama CLI](https://github.com/gurtej9602/ollama-cli)
 
-## GitHub Activity
+A terminal-native AI coding assistant for local Ollama models, with streaming chat, code saving, and developer workflows.
+
+`Go` `Ollama` `Bubble Tea`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CobraOS](https://github.com/gurtej9602/CobraOS)
+
+A lightweight Debian-based Linux distribution built around an XFCE desktop and a practical everyday environment.
+
+`Linux` `Debian` `XFCE`
+
+</td>
+<td width="50%" valign="top">
+
+### [Aether](https://github.com/gurtej9602/Aether)
+
+A browser-based fluid physics simulator and audio playground with interactive particle effects and procedural sound.
+
+`HTML` `CSS` `JavaScript` `Canvas` `Web Audio API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Gemini Antivirus Suite](https://github.com/gurtej9602/antivires-project)
+
+A multi-layered malware detection project combining signatures, YARA rules, heuristic analysis, and monitoring.
+
+`Python` `C++` `YARA`
+
+</td>
+<td width="50%" valign="top">
+
+### [Chat Room Global](https://github.com/gurtej9602/Chat-Room-Global)
+
+A real-time chat application with username-based joining and WebSocket-powered messaging.
+
+`Node.js` `Express` `Socket.IO` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+## Technologies
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gurtej9602&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="Gurtej's GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurtej9602&layout=compact&hide_border=true&theme=default" alt="Most used programming languages" />
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222222)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
 
+## GitHub at a glance
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gurtej9602&theme=default&hide_border=true)](https://github.com/gurtej9602)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurtej9602&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurtej9602&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
-## Currently
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gurtej9602&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-- Building and improving personal software projects.
-- Practising problem-solving and core computer science concepts.
-- Exploring ways to apply AI to everyday workflows.
+## Let's connect
 
-## Connect
+I'm open to interesting projects, collaboration, and opportunities to learn from other developers.
 
-- **GitHub:** [github.com/gurtej9602](https://github.com/gurtej9602)
-- **LinkedIn:** Add your LinkedIn profile URL here
-
----
+- **GitHub:** [@gurtej9602](https://github.com/gurtej9602)
+- **LinkedIn:** [Gurtej Singh](https://www.linkedin.com/in/gurtej-singh-1a19ba323/)
 
 <div align="center">
-  <sub>Focused on learning, building, and improving — one project at a time.</sub>
+
+*Build with curiosity. Improve with every iteration.*
+
 </div>
