@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/profile-header.svg" width="100%" alt="Gurtej Singh — Software Developer and AI Builder" />
@@ -112,13 +113,16 @@ A real-time chat application with username-based joining and WebSocket-powered m
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurtej9602&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurtej9602&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurtej9602&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=gurtej9602&hide_border=true" alt="GitHub contribution streak" />
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gurtej9602&hide_border=true" alt="GitHub contribution streak" />
-</div>
+<p align="center">
+  <sub>Language statistics and contribution streak are provided by third-party services and may occasionally be unavailable.</sub>
+</p>
 
 ## Let's connect
 
